@@ -30,7 +30,7 @@ position: relative;}
  	vertical-align: middle;
  	}	
 
- @media screen and (max-width: 680px) {
+ @media screen and (max-width: 710px) {
   	.column3 {width: 95%;}
   }
 
