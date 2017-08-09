@@ -16,9 +16,11 @@ font-weight: normal;}
 
 .column3 {
 margin: 5px;
-display: inline-block;
-text-align: left;
+/*display: inline-block;*/
+float: left;
+/*text-align: left;*/
 width: 30%;
+height: auto;
 vertical-align: top;
 padding: 5px;}
 
